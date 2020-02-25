@@ -2,7 +2,7 @@
  
 READ ME FILE
 
-1. HTML
+HTML
 We are going to make a div with an id slider for the main container, and a container that 
 holds all the pictures. We also need a div that contains the arrows and a pager. 
 
